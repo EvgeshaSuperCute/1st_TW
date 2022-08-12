@@ -46,3 +46,9 @@ ___
     Возвращает значение типа String[] 
 
 ___
+
+### Результаты выполнения алгоритма
+
+![test_1](https://wampi.ru/image/RNAonOI)
+![test_2](https://wampi.ru/image/RNAoSZs)
+![test_3](https://wampi.ru/image/RNqcc5J)
