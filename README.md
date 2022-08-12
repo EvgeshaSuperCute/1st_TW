@@ -49,6 +49,8 @@ ___
 
 ### Результаты выполнения алгоритма
 
-![test_1](https://wampi.ru/image/RNAonOI)
-![test_2](https://wampi.ru/image/RNAoSZs)
-![test_3](https://wampi.ru/image/RNqcc5J)
+- ![](https://im.wampi.ru/2022/08/12/IZOBRAZENIE_2022-08-12_173239001.png)
+
+- ![](https://im.wampi.ru/2022/08/12/IZOBRAZENIE_2022-08-12_173115555.png)
+
+- ![](https://ie.wampi.ru/2022/08/12/IZOBRAZENIE_2022-08-12_172829012.png)
