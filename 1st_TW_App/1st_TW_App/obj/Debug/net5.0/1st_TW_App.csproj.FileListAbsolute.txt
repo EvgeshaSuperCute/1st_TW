@@ -1,0 +1,16 @@
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\bin\Debug\net5.0\1st_TW_App.exe
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\bin\Debug\net5.0\1st_TW_App.deps.json
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\bin\Debug\net5.0\1st_TW_App.runtimeconfig.json
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\bin\Debug\net5.0\1st_TW_App.runtimeconfig.dev.json
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\bin\Debug\net5.0\1st_TW_App.dll
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\bin\Debug\net5.0\ref\1st_TW_App.dll
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\bin\Debug\net5.0\1st_TW_App.pdb
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\1st_TW_App.csproj.AssemblyReference.cache
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\1st_TW_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\1st_TW_App.AssemblyInfoInputs.cache
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\1st_TW_App.AssemblyInfo.cs
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\1st_TW_App.csproj.CoreCompileInputs.cache
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\1st_TW_App.dll
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\ref\1st_TW_App.dll
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\1st_TW_App.pdb
+D:\geek-brains\TWs\1st_TW\1st_TW_App\1st_TW_App\obj\Debug\net5.0\1st_TW_App.genruntimeconfig.cache

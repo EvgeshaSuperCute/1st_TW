@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Visgraat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Visgraat\\.nuget\\packages"
+    ]
+  }
+}
