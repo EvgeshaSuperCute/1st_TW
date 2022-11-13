@@ -23,7 +23,7 @@ ___
     Для решения задачи было создано 3 метода:
         - RandomString()
         - FormOutString()
-        - Print)
+        - Print()
 
 ___
 ### Print(String[] strs)
